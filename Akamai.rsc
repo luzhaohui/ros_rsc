@@ -1,0 +1,22 @@
+/ip firewall address-list
+remove [/ip firewall address-list find list=Akamai]
+add address=23.32.0.0/11 list=CN
+add address=23.192.0.0/11 list=CN
+add address=2.16.0.0/13 list=CN
+add address=104.64.0.0/10 list=CN
+add address=184.24.0.0/13 list=CN
+add address=23.0.0.0/12 list=CN
+add address=95.100.0.0/15 list=CN
+add address=92.122.0.0/15 list=CN
+add address=172.232.0.0/13 list=CN
+add address=184.50.0.0/15 list=CN
+add address=88.221.0.0/16 list=CN
+add address=23.64.0.0/14 list=CN
+add address=72.246.0.0/15 list=CN
+add address=96.16.0.0/15 list=CN
+add address=96.6.0.0/15 list=CN
+add address=69.192.0.0/16 list=CN
+add address=23.72.0.0/13 list=CN
+add address=173.222.0.0/15 list=CN
+add address=118.214.0.0/16 list=CN
+add address=184.84.0.0/14 list=CN
