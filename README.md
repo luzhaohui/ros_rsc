@@ -1,4 +1,4 @@
-# 
+# fetch xxx.rsc
 
 /tool fetch url=https://xxx.xxx/CN_AS_Cidr.rsc <br>
 /tool fetch url=https://github.com/luzhaohui/ros_rsc/raw/main/Apple.rsc <br>
