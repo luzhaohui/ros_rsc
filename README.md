@@ -1,7 +1,7 @@
 # import address-list
 
-import file-name=CN_AS_Cidr.rsc
-import file-name=Apple.rsc
-import file-name=Akamai.rsc
-import file-name=Office365.rsc
-import file-name=ETNet.rsc
+import file-name=CN_AS_Cidr.rsc <br>
+import file-name=Apple.rsc <br>
+import file-name=Akamai.rsc <br>
+import file-name=Office365.rsc <br>
+import file-name=ETNet.rsc <br>
